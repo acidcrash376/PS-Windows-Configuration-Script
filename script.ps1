@@ -1,4 +1,9 @@
-﻿
+﻿##########
+# Win 10 / Server 2012 Configuration Script
+# Author: Acidcrash <nope@acidcrash.co.uk>
+# Version: v1.3, 2019-05-28
+# Source: https://github.com/acidcrash376/PS-Windows-Configuration-Script
+##########
 
 ### Require Admin
 Function RequireAdmin {
